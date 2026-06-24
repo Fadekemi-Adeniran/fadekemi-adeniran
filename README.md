@@ -21,15 +21,18 @@ My expertise includes:
 
 ### Retail Sales Analytics Dashboard
 Analyzed grocery store sales performance, product trends, and promotional effectiveness using Power BI.
- [📊 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+
+ [📊 View Project](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics)
  
 ### HR Overtime Analytics Dashboard
 Examined workforce utilization and overtime patterns to support workforce planning and operational efficiency.
- [👥 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+
+ [👥 View Project](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard)
  
 ### Vendor Performance Analytics Dashboard
 Evaluated supplier efficiency, procurement performance, and purchasing trends through interactive analytics.
- [📦 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+
+ [📦 View Project](https://github.com/Fadekemi-Adeniran/Vendor-Performance-Analytics-Dashboard)
  
 ## Certifications
 
