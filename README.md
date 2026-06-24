@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Fadekemi Adeniran 
-
-Data Analyst specializing in Power BI, SQL, DAX, Data Modeling, and Business Intelligence.
+# 👋 Hi, meet Fadekemi Adeniran, Data Analyst specializing in Power BI, SQL, DAX, Data Modeling, and Business Intelligence.
 
 ## About Me
 
