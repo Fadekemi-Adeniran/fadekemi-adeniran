@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Fadekemi Adeniran 👋
 
-<!--
-**Fadekemi-Adeniran/fadekemi-adeniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst specializing in Power BI, SQL, DAX, Data Modeling, and Business Intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a results-driven Data Analyst with experience transforming raw data into actionable insights through interactive dashboards and data visualization.
+
+My expertise includes:
+- Power BI
+- SQL
+- DAX
+- Power Query
+- Data Modeling
+- Business Intelligence
+- Azure Data Engineering
+
+## Featured Projects
+
+### Retail Sales Analytics Dashboard
+Analyzed grocery store sales performance, product trends, and promotional effectiveness using Power BI.
+
+### HR Overtime Analytics Dashboard
+Examined workforce utilization and overtime patterns to support workforce planning and operational efficiency.
+
+### Vendor Performance Analytics Dashboard
+Evaluated supplier efficiency, procurement performance, and purchasing trends through interactive analytics.
+
+## Certifications
+
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+## Connect With Me
+
+📍 LinkedIn
+
+💻 GitHub Repositories
