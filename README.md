@@ -2,11 +2,11 @@
 
 Data Analyst specializing in Power BI, SQL, DAX, Data Modeling, and Business Intelligence.
 
-## About Me
+## 👩‍💻 About Me
 
 I am a results-driven Data Analyst with experience transforming raw data into actionable insights through interactive dashboards and data visualization.
 
-My expertise includes:
+## 💡 My expertise includes:
 - Power BI
 - SQL
 - DAX
@@ -17,7 +17,7 @@ My expertise includes:
 - Data Visualization
 - Dashboard Development
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Retail Sales Analytics Dashboard
 Analyzed grocery store sales performance, product trends, and promotional effectiveness using Power BI.
@@ -34,7 +34,7 @@ Evaluated supplier efficiency, procurement performance, and purchasing trends th
 
  [📦 View Project](https://github.com/Fadekemi-Adeniran/Vendor-Performance-Analytics-Dashboard)
  
-## Certifications
+## 🧠 Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
