@@ -13,19 +13,24 @@ My expertise includes:
 - Power Query
 - Data Modeling
 - Business Intelligence
-- Azure Data Engineering
+- KPI Reporting
+- Data Visualization
+- Dashboard Development
 
 ## Featured Projects
 
 ### Retail Sales Analytics Dashboard
 Analyzed grocery store sales performance, product trends, and promotional effectiveness using Power BI.
-
+ [📊 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+ 
 ### HR Overtime Analytics Dashboard
 Examined workforce utilization and overtime patterns to support workforce planning and operational efficiency.
-
+ [👥 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+ 
 ### Vendor Performance Analytics Dashboard
 Evaluated supplier efficiency, procurement performance, and purchasing trends through interactive analytics.
-
+ [📦 View Project](https://www.linkedin.com/in/fadekemiadeniran/)
+ 
 ## Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
