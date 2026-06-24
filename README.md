@@ -33,6 +33,6 @@ Evaluated supplier efficiency, procurement performance, and purchasing trends th
 
 ## Connect With Me
 
-📍 LinkedIn
+📍 [Linkedin Profile](https://www.linkedin.com/in/fadekemiadeniran/)
 
-💻 GitHub Repositories
+💻 [GitHub Profile](https://github.com/Fadekemi-Adeniran)
